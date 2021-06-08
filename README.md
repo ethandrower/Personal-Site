@@ -20,3 +20,10 @@ Contract Via Toptal - Architect and Developer @ Navigation Trading
 --------------------------------------
 
 
+
+Open Source Code
+---------------------------
+- TD Ameritrade API (via Python) - Syncing Trades  -> 
+- Django Starter Templates ( Heroku, Static Image Hosting with AWS, Basic Email Auth) 
+
+
